@@ -3,6 +3,7 @@
 
 This is a basic authentication CRUD. Go on and Try
 
+#
 ## Installation
 
 This is installation for server (backend) side
@@ -22,6 +23,13 @@ This is installation for client (frontend) side
 ```bash
   npm install
 ```
+
+Make 1 file .env in backend folder
+```bash
+  APP_PORT = 
+  SESSION_SECRET = 
+```
+
 
 ## Deployment
 
